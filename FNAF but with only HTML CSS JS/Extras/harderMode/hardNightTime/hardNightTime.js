@@ -1,1 +1,0 @@
-var nightStarting = document.getElementById("nightStarting").autoplay = true;
