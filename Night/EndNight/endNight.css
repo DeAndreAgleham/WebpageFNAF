@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+
+h1{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+    top: 250px;
+}
+
+button{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: black;
+    border-color: black;
+    left: 585px;
+    top: 250px;
+}
