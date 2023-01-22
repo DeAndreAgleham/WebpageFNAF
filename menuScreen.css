@@ -1,0 +1,47 @@
+html{
+    background-color: #272727;
+}
+
+h1{
+    font-size: 50px;
+    margin-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+h6{
+    margin-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+button{
+    position: relative;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20px;
+    color: white;
+    background-color: #272727;
+    border-color: #272727;
+    bottom: 500px;
+}
+
+#extra{
+    position: relative;
+    right: 207px;
+    bottom: 425px;
+}
+
+img{
+    position: relative;
+    height: 534px;
+    width: 414px;
+    left: 600px;
+    bottom: 350px;
+}
+
+.L{
+    position: relative;
+    left: 990px;
+    bottom: 1000px;
+}
