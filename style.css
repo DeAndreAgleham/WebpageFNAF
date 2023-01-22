@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+
+#myProgress {
+    position: relative;
+    left: 68px;
+    top: 300px;
+    width: 90%;
+    background-color: black;
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+  }
+  
+  #myBar {
+    color:white;
+    width: 1%;
+    height: 50px;
+    background-color: white;
+  }
