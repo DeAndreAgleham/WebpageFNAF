@@ -1,3 +1,1 @@
 # Something
-
-theme: Midnight
